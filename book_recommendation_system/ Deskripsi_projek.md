@@ -1,5 +1,3 @@
-# Laporan Proyek Akhir Machine Learning - Irfani Azis
-
 ## Project Overview
 
 Sistem rekomendasi telah menjadi komponen penting dalam meningkatkan pengalaman pengguna di berbagai platform, seperti situs penjualan buku, streaming musik, video, atau bahkan e-commerce. Dalam proyek ini, dikembangkan sistem rekomendasi buku menggunakan pendekatan collaborative filtering. Sistem ini bertujuan untuk membantu pengguna menemukan buku yang relevan dengan kesukaan atau preferensi pengguna.
